@@ -18,3 +18,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 	I imagine with something like http://collabedit.com/ or https://kobra.io/#/ which has the advantage of real-time collaboration. It would be easier initially, but can become a problem when too many people are trying to change a file at the same time.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	This allows experimenting without breaking the master. You can test new features and bug fixes and if they work out they can be merged back into master or if not they can be dropped. All this without breaking the functionality of the master.
+
